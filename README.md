@@ -1,2 +1,4 @@
-# Data-analysis-dashboard
-I developed a comprehensive project PowerBI ,creating dashboard to analyze the data. The process involved several stages, including data preprocessing, data cleaning, and data visualization  
+ # DATA ANALYSIS
+ ## PROJECT OVERVIEW
+  The Car Sales Dashboard is an interactive business intelligence solution built using Power BI, and MS Excel,Monitor overall car sales performance
+and Analyze weekly, monthly, and year-to-date trends Identify top-performing regions and brands.
