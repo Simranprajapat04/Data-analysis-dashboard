@@ -9,4 +9,4 @@ Year-to-Date (YTD) Total Sales,Month-to-Date (MTD) Total Sales,YTD Average Selli
 ## Visualizations Used
 KPI Cards – Quick overview of key metrics,Line Chart – Weekly sales trend analysis,Filled Map / Bubble Map – Regional sales distribution,Donut Charts – Sales by body style & color,Bar Chart – Company-wise sales comparison,Slicers (Filters) – Body Style, Dealer Region, Transmission, Engine.
 ## Dashboard
-Screenshot 2026-01-20 135800.png
+https://github.com/Simranprajapat04/Data-analysis-dashboard/blob/main/Screenshot%202026-01-20%20135800.png
