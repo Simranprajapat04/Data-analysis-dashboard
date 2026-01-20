@@ -13,5 +13,5 @@ KPI Cards – Quick overview of key metrics,Line Chart – Weekly sales trend an
 ## Dashboard
 <img width="1207" height="675" alt="image" src="https://github.com/user-attachments/assets/1076342e-4f7e-4a38-8b23-f005546571d9" />
 
-## Dashboard
+## conclusion
 The Car Sales Dashboard project demonstrates how raw sales data can be transformed into meaningful insights using Power BI. By integrating data cleaning, KPI calculations, and interactive visualizations, the dashboard provides a comprehensive view of sales performance across time, regions, brands, and product attributes.
