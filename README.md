@@ -8,4 +8,5 @@ and Analyze weekly, monthly, and year-to-date trends Identify top-performing reg
 Year-to-Date (YTD) Total Sales,Month-to-Date (MTD) Total Sales,YTD Average Selling Price,YTD Cars Sold,MTD Cars Sold,Brand-wise % Contribution to Total Sales.
 ## Visualizations Used
 KPI Cards – Quick overview of key metrics,Line Chart – Weekly sales trend analysis,Filled Map / Bubble Map – Regional sales distribution,Donut Charts – Sales by body style & color,Bar Chart – Company-wise sales comparison,Slicers (Filters) – Body Style, Dealer Region, Transmission, Engine.
-## desktop
+## Dashboard
+Screenshot 2026-01-20 135800.png
